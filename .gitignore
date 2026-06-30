@@ -23,5 +23,5 @@ venv/
 # Runtime feedback
 data/qa_pairs/feedback_log.jsonl
 
-# data/vectordb/
-# data/bm25_index.pkl
+data/vectordb/
+data/bm25_index.pkl
