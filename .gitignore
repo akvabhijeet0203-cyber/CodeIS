@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+# Virtual Environment
+venv/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+.pytest_cache/
+.cache/
+
+# Logs
+*.log
+# Runtime feedback
+data/qa_pairs/feedback_log.jsonl
+
+# data/vectordb/
+# data/bm25_index.pkl
